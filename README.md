@@ -1,6 +1,6 @@
-# Excel Export
+<!-- # Excel Export
 
-This plugin allows users to generate and download excel files directly from their strapi application, streamlining data management and analysis. With intuitive configuration options, users can define the data to be included in the excel file.The plugin is designed to be user-friendly, offering a seamless experience for both developers and end-users.
+This plugin allows users to generate and download excel files directly from their strapi application, streamlining data management and analysis. With intuitive configuration options, users can define the data to be included in the excel file.The plugin is designed to be user-friendly, offering a seamless experience for both developers and end-users. -->
 
 # Getting Started
 

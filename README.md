@@ -46,8 +46,14 @@ module.exports = {
 
 - The tables **uid** (api::contact-form.contact-form) need to be given following by its columns required
   - The columns has to be exactly like in the **schema**.
-- Relational fields need to be specified in the relation. For example consider the relation as solution and the column wanted from that relation is title
+- Relational fields need to be specified in the relation. For example consider the relation as solution and the column wanted from that relation is title.
+
+  - Even if there is no relation needed please keep the relation field empty.
+
+  - `relation: {},`
+
   - **Note :** Currently one level of relation is supported.
+
 - The locale field is for i18 translation plugin. If there is translation for the table you have to make it true.
 
   - **Note :** Currently data will be only availabe in 'en'.
